@@ -1,5 +1,5 @@
 import express, { json } from "express";
-import todoRoutes from "./routers/todoRoutes.js";
+import todoRoutes from "../routers/todoRoutes.js";
 import dotenv from "dotenv";
 import mongoose from "mongoose";
 
